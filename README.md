@@ -8,6 +8,9 @@ DOI will be provided once available from the journal.
 
 Raw sequence data will be available shortly via NCBI GEO (GSE330706)
 
+Static version of this repositoty, plus additional intermediate data too large for github are available here
+10.6084/m9.figshare.32311218
+
 ## Overview
 
 Beginning with the RNAseq data in a folder called 'RNA', and the reference genomes for carrolli, prolongata, and melanogaster in a folder called 'genome' and sub-directories named after each species. Bash scripts contain path structures for all scripts and are formatted for use with slurm schedulers.
