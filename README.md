@@ -2,13 +2,11 @@
 
 If you use this data and or code, please cite the forthcoming paper.
 
-Tyler Audet, Jhoniel Perdigón Ferreira, Abhishek Meena, Mariam Abass, Arteen Torabi-Marashi, John Yeom, Fatima Zaghloul, Nour Zaghloul, Arie Mizrahi, Julia Novikov, Emma Xi, Stefan Lüpold, Ian Dworkin. (2026).Genomic architecture of the developing forelegs of *Drosophila prolongata*; an exaggerated weapon and ornament. Evolution. Accepted
+Tyler Audet, Jhoniel Perdigón Ferreira, Abhishek Meena, Mariam Abass, Arteen Torabi-Marashi, John Yeom, Fatima Zaghloul, Nour Zaghloul, Arie Mizrahi, Julia Novikov, Emma Xi, Stefan Lüpold, Ian Dworkin. (2026).Genomic architecture of the developing forelegs of *Drosophila prolongata*; an exaggerated weapon and ornament. [Evolution](https://doi.org/10.1093/evolut/qpag096). 
 
-DOI will be provided once available from the journal.
+Raw sequence data is available via [NCBI GEO](https://www.ncbi.nlm.nih.gov/geo/) via the following accession GSE330706.
 
-Raw sequence data will be available shortly via NCBI GEO (GSE330706)
-
-Static version of this repositoty, plus additional intermediate data too large for github are available here
+Static version of this repository, plus additional intermediate data too large for github are available here
 10.6084/m9.figshare.32311218
 
 ## Overview
